@@ -4,6 +4,8 @@
 
 I'm Pedro (he/him), avid programmer and aspiring computer scientist! I love programming in C and Python and have a lot of interest in learning about the inner workings of computers.
 
+[![My Skills](https://skillicons.dev/icons?i=c,python,go,ubuntu,neovim)](https://skillicons.dev)
+
 ### About me
 - 🌎️ Living in Minas Gerais, Brazil;
 - 👨‍💻 Knowledgeable in C and Python, though I am quick to learn other languages;
