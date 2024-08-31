@@ -1,5 +1,6 @@
 ## ✨ Hello! ✨
-[![Twitter: pedrobuitragons](https://img.shields.io/twitter/follow/pedrobuitragons?style=social)](https://x.com/pedrobuitragons)
+[![Bluesky: pbnjk.bsky.social](https://img.shields.io/static/v1?label=&message=Bluesky&color=0285FF&logo=bluesky&style=for-the-badge&logoColor=white)](https://bsky.app/profile/pbnjk.bsky.social)
+
 [![GitHub: PBnJK](https://img.shields.io/github/followers/PBnJK?label=follow&style=social)](https://github.com/PBnJK)
 
 I'm Pedro (he/him), avid programmer and aspiring computer scientist! I love programming in C and Python and have a lot of interest in learning about the inner workings of computers.
