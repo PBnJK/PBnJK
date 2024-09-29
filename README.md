@@ -17,6 +17,9 @@ I'm Pedro (he/him), avid programmer and aspiring computer scientist! I love prog
 
 [^1]: See [FamiStudio](https://github.com/BleuBleu/FamiStudio/), which was mostly translated from English to PT-BR by me
 
+### roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/tall/66f8572ac45e253cb024cdcb?variant=dark)](https://roadmap.sh)
+
 <!--
 Hello, curious person! These notes are for me, but you're welcome to read them!
 - [ ] Add more sections, like project descriptions;
