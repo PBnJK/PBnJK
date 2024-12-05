@@ -9,10 +9,10 @@ I'm Pedro (he/him), avid programmer and aspiring computer scientist! I love prog
 
 ### About me
 - 🌎️ Living in Minas Gerais, Brazil;
-- 👨‍💻 Knowledgeable in C and Python, though I am quick to learn other languages;
-- 💬 Native PT-BR speaker and fluent in English, having some experience in translating software[^1];
-- 🌱 Currently studying linear algebra and preparing for [ENEM](https://en.wikipedia.org/wiki/Exame_Nacional_do_Ensino_M%C3%A9dio);
-- ⚙️ Working on an NES emulator and on a game with Godot Engine;
+- 👨‍💻 Knowledgeable in C and Python, with an interest in Go;
+- 💬 Native PT-BR speaker and fluent in English, with some experience translating software[^1];
+- 🌱 Currently studying for university exams;
+- ⚙️ Working on experiments in procedural art;
 - 🎵 I also have an interest in drawing and music, having composed soundtracks for a [few](https://intellikat.itch.io/heavy-drinker) [games](https://intellikat.itch.io/quest-for-the-x).
 
 [^1]: See [FamiStudio](https://github.com/BleuBleu/FamiStudio/), which was mostly translated from English to PT-BR by me
